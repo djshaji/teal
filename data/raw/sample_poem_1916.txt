@@ -1,0 +1,10 @@
+Title: Sample War Poem
+Author: Example Poet
+Year: 1916
+Source: pilot_corpus
+
+The bells are still, the streets are dim.
+A pulse of steel runs under hymn.
+
+We count the hours in iron rain.
+The meter breaks, resumes, then pain.
