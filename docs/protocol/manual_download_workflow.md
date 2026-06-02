@@ -7,8 +7,13 @@ This workflow turns the source registry into a manual corpus acquisition queue f
 - Source queue: `data/metadata/sources.csv`
 - Each row includes a URL you can open and download from manually.
 
+Fast-start option:
+- Tier-1 seed queue (20 rows): `data/metadata/sources_tier1_seed_20.csv`
+- Tier-1 URL list: `data/metadata/manual_download_urls_tier1_20.txt`
+
 ## Step-by-Step Process
 1. Open `data/metadata/sources.csv`.
+   - Or start with `data/metadata/sources_tier1_seed_20.csv` for a strict Tier-1 run.
 2. Filter `acquisition_status=manual_queue`.
 3. Sort by:
    - `priority` (high first)

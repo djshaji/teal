@@ -1,6 +1,6 @@
 PYTHON ?= python
 
-.PHONY: ingest source-report clean prosody affect-train affect-infer stats viz thesis-report test
+.PHONY: ingest merge-sources source-report clean prosody affect-train affect-infer stats viz thesis-report test
 
 ingest:
 	$(PYTHON) scripts/ingest/fetch_sources.py
@@ -8,6 +8,9 @@ ingest:
 
 source-report:
 	$(PYTHON) scripts/ingest/report_source_coverage.py
+
+merge-sources:
+	$(PYTHON) scripts/ingest/merge_source_registries.py
 
 clean:
 	$(PYTHON) scripts/clean/ocr_correct.py

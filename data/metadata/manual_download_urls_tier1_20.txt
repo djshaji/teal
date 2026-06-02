@@ -1,0 +1,21 @@
+# Tier-1 20-item manual download queue (public-domain first)
+https://www.gutenberg.org/ebooks/search/?query=In+Memoriam+A+H+H+Tennyson
+https://www.gutenberg.org/ebooks/search/?query=Men+and+Women+Robert+Browning
+https://www.gutenberg.org/ebooks/search/?query=Goblin+Market+and+Other+Poems+Christina+Rossetti
+https://www.gutenberg.org/ebooks/search/?query=Poems+and+Ballads+Swinburne
+https://www.gutenberg.org/ebooks/search/?query=Leaves+of+Grass+Walt+Whitman
+https://www.gutenberg.org/ebooks/search/?query=Poems+Matthew+Arnold
+https://www.gutenberg.org/ebooks/search/?query=The+Earthly+Paradise+William+Morris
+https://www.gutenberg.org/ebooks/search/?query=Wessex+Poems+Thomas+Hardy
+https://www.gutenberg.org/ebooks/search/?query=A+Shropshire+Lad+housman
+https://www.gutenberg.org/ebooks/search/?query=Rupert+Brooke+Poems
+https://www.gutenberg.org/ebooks/search/?query=Poems+Gerard+Manley+Hopkins
+https://www.gutenberg.org/ebooks/search/?query=The+Wild+Swans+at+Coole+Yeats
+https://www.gutenberg.org/ebooks/search/?query=The+Waste+Land+T+S+Eliot
+https://www.gutenberg.org/ebooks/search/?query=New+Hampshire+Robert+Frost
+https://www.gutenberg.org/ebooks/search/?query=The+Harp-Weaver+and+Other+Poems+Millay
+https://www.gutenberg.org/ebooks/search/?query=Observations+Marianne+Moore
+https://www.gutenberg.org/ebooks/search/?query=Harmonium+Wallace+Stevens
+https://www.gutenberg.org/ebooks/search/?query=Vachel+Lindsay+Collected+Poems
+https://www.gutenberg.org/ebooks/search/?query=Laura+Riding+The+Close+Chaplet
+https://www.gutenberg.org/ebooks/search/?query=John+Crowe+Ransom+Two+Gentlemen+in+Bonds
