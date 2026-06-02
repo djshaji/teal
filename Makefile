@@ -1,10 +1,13 @@
 PYTHON ?= python
 
-.PHONY: ingest clean prosody affect-train affect-infer stats viz thesis-report test
+.PHONY: ingest source-report clean prosody affect-train affect-infer stats viz thesis-report test
 
 ingest:
 	$(PYTHON) scripts/ingest/fetch_sources.py
 	$(PYTHON) scripts/ingest/build_metadata.py
+
+source-report:
+	$(PYTHON) scripts/ingest/report_source_coverage.py
 
 clean:
 	$(PYTHON) scripts/clean/ocr_correct.py

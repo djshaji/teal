@@ -1,0 +1,21 @@
+# High-priority manual queue URLs
+https://www.gutenberg.org/ebooks/search/?query=In+Memoriam+A+H+H+Tennyson
+https://www.gutenberg.org/ebooks/search/?query=Goblin+Market+and+Other+Poems+Christina+Rossetti
+https://www.gutenberg.org/ebooks/search/?query=Thomas+Hardy+poems
+https://archive.org/search?query=A+Shropshire+Lad+1896
+https://archive.org/search?query=Gerard+Manley+Hopkins+Poems+1918
+https://www.gutenberg.org/ebooks/search/?query=The+Wild+Swans+at+Coole
+https://www.gutenberg.org/ebooks/search/?query=The+Waste+Land+T+S+Eliot
+https://archive.org/search?query=W+H+Auden+Poems+1930
+
+# Additional queue URLs
+https://catalog.hathitrust.org/Search/Home?lookfor=Robert+Browning+Men+and+Women+1855
+https://archive.org/search?query=Walt+Whitman+Leaves+of+Grass+1867
+https://catalog.hathitrust.org/Search/Home?lookfor=Matthew+Arnold+Poems+1877
+https://www.gutenberg.org/ebooks/search/?query=W+E+Henley+poems
+https://archive.org/search?query=Marianne+Moore+Observations+1924
+https://catalog.hathitrust.org/Search/Home?lookfor=Ezra+Pound+A+Draft+of+XXX+Cantos+1930
+https://archive.org/search?query=British+poetry+periodical+1935
+https://www.poetryfoundation.org/search?query=Langston+Hughes+1943
+https://archive.org/search?query=Edith+Sitwell+poems+1944
+https://archive.org/search?query=poetry+periodical+1948

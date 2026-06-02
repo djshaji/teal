@@ -71,7 +71,15 @@ teal/
 ## Workstreams
 
 ### A. Data Workstream
-1. Source corpus from HathiTrust, Project Gutenberg, and other repositories.
+1. Source corpus from HathiTrust, Project Gutenberg, Internet Archive, Poetry Foundation where permitted, university textbases, and periodical archives.
+  - Build a source priority list with three tiers:
+    - Tier 1: public-domain, machine-readable collections with stable bibliographic metadata
+    - Tier 2: OCR-derived scans with acceptable page-quality and recoverable lineation
+    - Tier 3: restricted or manually intensive archives reserved for targeted gap-filling
+  - Use stratified acquisition by decade (1850s through 1940s) to avoid overconcentration in canonical late-Victorian and high-Modernist peaks.
+  - Track every candidate text in `data/metadata/sources.csv` with source URL, repository, rights status, year, author, title, and acquisition status.
+  - Prioritize collections that preserve poetic lineation and publication-year metadata.
+  - Maintain a gap log for underrepresented decades, regions, and publication venues.
 2. Build metadata schema (author, year, publication venue, country, form tags).
 3. Run OCR correction and normalization (orthography mapping policy).
 4. Remove paratext and enforce stanza/line boundary integrity.
@@ -79,6 +87,10 @@ teal/
    - corpus_clean.parquet
    - stanza_units.parquet
    - metadata_master.csv
+
+Acquisition protocol:
+- See `docs/protocol/corpus_sourcing_plan.md` for repository priorities, inclusion criteria, exclusion rules, and sampling strategy.
+- For manual acquisition runs, use `docs/protocol/manual_download_workflow.md` and `data/metadata/manual_download_urls.txt`.
 
 Done criteria:
 - >= 80% of planned corpus ingested with valid metadata
